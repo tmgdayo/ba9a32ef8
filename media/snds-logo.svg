@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">SNDS SANADA SHOKAI ロゴ</title>
+  <desc id="desc">字間を広く取ったSNDSと小さなSANADA SHOKAIの文字ロゴ</desc>
+  <rect width="900" height="420" fill="#F3F0E6"/>
+  <rect x="120" y="78" width="660" height="264" rx="34" fill="none" stroke="#566D69" stroke-width="7"/>
+  <text x="450" y="222" text-anchor="middle" fill="#566D69" font-size="108" font-weight="500" letter-spacing="34" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">SNDS</text>
+  <line x1="300" y1="260" x2="600" y2="260" stroke="#A18352" stroke-width="4"/>
+  <text x="450" y="306" text-anchor="middle" fill="#566D69" font-size="27" letter-spacing="9" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">SANADA SHOKAI</text>
+</svg>
